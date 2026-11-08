@@ -5,3 +5,5 @@ desktop.ini
 *.log
 .env
 .specify/
+Vanessa/reports/
+Vanessa/logs/
